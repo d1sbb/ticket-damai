@@ -1,0 +1,72 @@
+2023-10-31 00:12:48.249 | INFO     | damai.orderview:add:61 - 738435852317/211773103
+2023-10-31 00:12:48.388 | DEBUG    | damai.orderview:add:64 - {'2023-11-04': {'limitQuantity': '4',
+                'performBeginDTStr': '202311041900',
+                'performName': '2023-11-04  周六 19:30',
+                'skuList': [{'itemId': '738435852317',
+                             'price': '380.00',
+                             'priceName': '看台380元',
+                             'skuId': '5270491863409'},
+                            {'itemId': '738435852317',
+                             'price': '480.00',
+                             'priceName': '看台480元',
+                             'skuId': '5270491863410'},
+                            {'itemId': '738435852317',
+                             'price': '580.00',
+                             'priceName': '看台580元',
+                             'skuId': '5270491863411'},
+                            {'itemId': '738435852317',
+                             'price': '680.00',
+                             'priceName': '内场680元',
+                             'skuId': '5270491863412'},
+                            {'itemId': '738435852317',
+                             'price': '880.00',
+                             'priceName': '内场880元',
+                             'skuId': '5270491863413'},
+                            {'itemId': '738435852317',
+                             'price': '1080.00',
+                             'priceName': '内场1080元',
+                             'skuId': '5270491863414'}]}}
+2023-10-31 00:12:48.536 | INFO     | damai.runner:_execute_accord_to_config:52 - 
+【重庆】李荣浩“ 纵横四海 ”巡回演唱会-重庆站
+抢票时间：2023-10-30 13:28:03
+场次：1
+价格：6
+数量：1
+2023-10-31 00:12:55.312 | INFO     | damai.utils:get_x5sec_cookie:141 - 更新：x5sec
+2023-10-31 00:12:58.087 | INFO     | example.example3:leak_submit:132 - 生成：SUCCESS::调用成功, 创建：SUCCESS::调用成功
+2023-10-31 00:12:58.088 | INFO     | example.example3:leak_submit:134 - 抢票成功，前往app订单管理付款
+2023-10-31 00:12:58.089 | INFO     | example.example3:notice:224 - 通知功能: ('',), {}
+2023-10-31 14:42:13.175 | INFO     | damai.orderview:add:61 - 738435852317/211773103
+2023-10-31 14:42:13.313 | DEBUG    | damai.orderview:add:64 - {'2023-11-04': {'limitQuantity': '4',
+                'performBeginDTStr': '202311041900',
+                'performName': '2023-11-04  周六 19:30',
+                'skuList': [{'itemId': '738435852317',
+                             'price': '380.00',
+                             'priceName': '看台380元',
+                             'skuId': '5270491863409'},
+                            {'itemId': '738435852317',
+                             'price': '480.00',
+                             'priceName': '看台480元',
+                             'skuId': '5270491863410'},
+                            {'itemId': '738435852317',
+                             'price': '580.00',
+                             'priceName': '看台580元',
+                             'skuId': '5270491863411'},
+                            {'itemId': '738435852317',
+                             'price': '680.00',
+                             'priceName': '内场680元',
+                             'skuId': '5270491863412'},
+                            {'itemId': '738435852317',
+                             'price': '880.00',
+                             'priceName': '内场880元',
+                             'skuId': '5270491863413'},
+                            {'itemId': '738435852317',
+                             'price': '1080.00',
+                             'priceName': '内场1080元',
+                             'skuId': '5270491863414'}]}}
+2023-10-31 14:42:13.467 | INFO     | damai.runner:_execute_accord_to_config:52 - 
+【重庆】李荣浩“ 纵横四海 ”巡回演唱会-重庆站
+抢票时间：2023-10-31 12:16:14
+场次：1
+价格：6
+数量：1

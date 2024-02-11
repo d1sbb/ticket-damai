@@ -1,0 +1,38 @@
+2023-12-08 09:23:49.742 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 09:27:43.227 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 09:27:54.332 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 09:35:15.714 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 09:37:38.287 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 09:39:32.836 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:40:16.475 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:42:10.085 | DEBUG    | damai.orderview:add:66 - {}
+2023-12-08 09:42:25.464 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:53:08.099 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:53:42.897 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:56:21.888 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 09:57:37.600 | DEBUG    | damai.orderview:add:65 - {}
+2023-12-08 10:05:40.960 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:27:17.470 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:27:17.613 | INFO     | damai.runner:_execute_accord_to_config:52 - 
+【福州】周杰伦2024“嘉年华”世界巡回演唱会-福州站
+抢票时间：2023-12-09 10:00:00
+场次：1
+价格：1
+数量：1
+2023-12-08 10:29:51.420 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:29:51.557 | INFO     | damai.runner:_execute_accord_to_config:52 - 
+【南宁】W-POP音乐节 南宁站
+抢票时间：2023-12-05 14:47:46
+场次：1
+价格：1
+数量：1
+2023-12-08 10:30:25.783 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:30:25.930 | INFO     | damai.runner:_execute_accord_to_config:52 - 
+【南宁】W-POP音乐节 南宁站
+抢票时间：2023-12-05 14:47:46
+场次：1
+价格：1
+数量：1
+2023-12-08 10:32:25.754 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:33:09.897 | DEBUG    | damai.orderview:add:64 - {}
+2023-12-08 10:38:57.483 | DEBUG    | damai.orderview:add:65 - {}

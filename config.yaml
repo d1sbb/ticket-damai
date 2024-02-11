@@ -1,0 +1,13 @@
+# Gather SalableQuantity
+PERFORM: example.example3.SalableQuantity
+
+ITEM_ID: 752160098351   # 演唱会url中id或itemId
+CONCERT: 1 # 场次 格式 1 或者 [1, 2]
+PRICE: 1   # 价格 格式 1 或者 [1, 2], 依次对应票档。目前只有`SalableQuantity`类支持list，否则值为下标0
+TICKET: 1  # 购票数量
+
+DELAY: 0   # 延迟，1=1s。大于0会在RUN_DATE加对应的时间
+
+#RUN_DATE: 20231101112000  # 自定义抢票时间。为兼容优先购，有特权或者演出无优先购可不配置，格式：20230619122100
+
+COOKIE: cna=koHGHRrkLAQCAXjbW8roDuOs; tfstk=ddEwrQNF2sO6r4h1yVmqYzrO7u_t40C5ioGjn-2mCfcgCjN4nXPlBV_T5yl4TXhg1hig0xV3nqxjlNH20XPKho6tlyu4F5obccc08Jc3J1COXGH007Ud61E4Hnk0nSBtGOQQpRnxm_15NgwTBTr1N_NjcJGEDmf5NetmWgoYaOA2MTkuqwXpB2KuBXq9YcgMq6VsTnxkQAuiUghHmnqEQJllQVdxKT0zDoIvuVDKLb6FLvc1Ymf..; l=fBg-vmYrPMirCBvtBOfZnurza779_COfguPzaNbMi9fP96CM5fulW1FbCKTHCnhdFsTBR3SzxgyvBeYBY3xonxvOn6_zLJkmnmOk-Wf..; isg=BDk500G8eGmftiSFE1D9puvMQ6wTRi34zPPEs1tupGDf4lh0o5ZHyXEwYegU2sUw; munb=2214469674813; cookie2=1eeb7836386e48c3d02d9fbe09d26cd7; csg=d970eeed; t=c4ce03e7f259398c09fa2afe017bd5bc; _tb_token_=eb61bd85bd1b3;
